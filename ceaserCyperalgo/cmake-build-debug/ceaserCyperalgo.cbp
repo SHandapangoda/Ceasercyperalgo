@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ceaserCyperalgo"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/c Works/ceaserCyperalgo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ceaserCyperalgo">
+				<Option output="F:/c Works/ceaserCyperalgo/cmake-build-debug/ceaserCyperalgo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/c Works/ceaserCyperalgo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++"/>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/mingw32"/>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 ceaserCyperalgo"/>
+					<CompileFile command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ceaserCyperalgo/fast">
+				<Option output="F:/c Works/ceaserCyperalgo/cmake-build-debug/ceaserCyperalgo.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/c Works/ceaserCyperalgo/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++"/>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/mingw32"/>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="H:/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 ceaserCyperalgo/fast"/>
+					<CompileFile command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/c Works/ceaserCyperalgo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/c Works/ceaserCyperalgo/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="H:/CodeBlocks/MinGW/bin/mingw32-make.exe -f &quot;F:/c Works/ceaserCyperalgo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/c Works/ceaserCyperalgo/main.cpp">
+			<Option target="ceaserCyperalgo"/>
+		</Unit>
+		<Unit filename="F:/c Works/ceaserCyperalgo/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
